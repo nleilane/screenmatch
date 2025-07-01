@@ -1,6 +1,6 @@
 public class Principal {
     public static void main(String[] args) {
-        Filme meuFilme = new Filme();
+        Filme meuFilme = new Filme(); //Criando objeto a partir da classe Filme
         meuFilme.nome = "Joker";
         meuFilme.anoDeLancamento = 2019;
         meuFilme.duracao = 122;

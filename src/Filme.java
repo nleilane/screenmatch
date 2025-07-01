@@ -1,5 +1,5 @@
 public class Filme {
-    String nome;
+    String nome; //atributo = caracteristica de um objeto
     int anoDeLancamento;
     Boolean incluindoNoPlano;
     double somaDasAvaliacoes;
